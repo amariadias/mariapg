@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;       
+}
+
+.barra{
+    text-align: center;
+    background-color: rgb(133, 9, 0);
+}
+
+h1{
+    margin: 0;
+    font-family: 'Caprasimo', cursive;  
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #fff;
+}
+.cont{
+    margin:40pX 40pX 40pX 40pX;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+p{
+    margin: 0px  10px 5px 10px;
+}
+
+.text{
+    margin:0px  10px 0px 10px;
+    font-size: 17px;
+
+}
+.img2 {
+    width: max-content;
+}
+
+.img2-1 {
+    width: max-content;
+    height: max-content;
+    justify-content: center;
+    margin-left: 5px;
+}
+.imagem{
+    display:flex; 
+    flex-direction: column;
+}
